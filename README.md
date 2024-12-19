@@ -3,7 +3,7 @@
 <h3>Screenshot</h3>
 <h3>Features</h3>
 <ol>
-  <li>Count down Time</li>
+
   <li>Typing write effect</li>
   <li>Animation with heart</li>
 </ol>
